@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.a987f6ee.js",
+    "main.js": "/static/js/main.12d324db.js",
     "static/media/heleno-kaizer-hXHTSfhxovo-unsplash.jpg": "/static/media/heleno-kaizer-hXHTSfhxovo-unsplash.4ca0d9604af99ef62279.jpg",
+    "static/media/gif1.gif": "/static/media/gif1.c27e24ec4185d95b882a.gif",
     "static/media/new1.jpg": "/static/media/new1.3768108ef394cfec48e5.jpg",
+    "static/media/undraw_sharing_knowledge_03vp.svg": "/static/media/undraw_sharing_knowledge_03vp.df600fa29eb73eea1bb4e7b4dcd7fad5.svg",
     "static/media/undraw_gifts_gioo.svg": "/static/media/undraw_gifts_gioo.1f8a1148c5ca96e6d6910ee34a97d9a3.svg",
     "static/media/undraw_financial_data_re_p0fl.svg": "/static/media/undraw_financial_data_re_p0fl.bd47a263fce065c154b8ed7393badf4a.svg",
     "static/media/undraw_delivery_truck_vt6p.svg": "/static/media/undraw_delivery_truck_vt6p.3a8d4966dd3ffb616800e0ca33e14af2.svg",
-    "static/media/undraw_statistic_chart_re_w0pk.svg": "/static/media/undraw_statistic_chart_re_w0pk.b3f33b23811ae81f3084e73d5666b186.svg",
     "static/media/undraw_agree_re_hor9.svg": "/static/media/undraw_agree_re_hor9.b09da146d9f6a51abe1227e974728a47.svg",
     "static/media/undraw_certification_re_ifll.svg": "/static/media/undraw_certification_re_ifll.e1cef8e2f0e41aea6c49c3c4751ceaf4.svg",
     "static/media/undraw_certificate_re_yadi.svg": "/static/media/undraw_certificate_re_yadi.b09b0539e06a8c67b66dd687afd50264.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.a987f6ee.js.map": "/static/js/main.a987f6ee.js.map"
+    "main.12d324db.js.map": "/static/js/main.12d324db.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a987f6ee.js"
+    "static/js/main.12d324db.js"
   ]
 }
