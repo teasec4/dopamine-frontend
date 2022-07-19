@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.0640aa80.js",
+    "main.js": "/static/js/main.cb82123d.js",
     "static/media/heleno-kaizer-hXHTSfhxovo-unsplash.jpg": "/static/media/heleno-kaizer-hXHTSfhxovo-unsplash.4ca0d9604af99ef62279.jpg",
     "static/media/gif1.gif": "/static/media/gif1.c27e24ec4185d95b882a.gif",
     "static/media/new1.jpg": "/static/media/new1.3768108ef394cfec48e5.jpg",
+    "static/media/photo_2022-07-19_20-20-32.jpg": "/static/media/photo_2022-07-19_20-20-32.189030fc8fe4554991cf.jpg",
+    "static/media/photo_2022-07-19_19-38-57.jpg": "/static/media/photo_2022-07-19_19-38-57.d6f4abc4550f07484ee4.jpg",
+    "static/media/photo_2022-07-19_19-38-56.jpg": "/static/media/photo_2022-07-19_19-38-56.7f3b640de3cf8fe8f9d7.jpg",
+    "static/media/photo_2022-07-19_19-38-59.jpg": "/static/media/photo_2022-07-19_19-38-59.c301b9e58b0b8c38d1a9.jpg",
     "static/media/undraw_sharing_knowledge_03vp.svg": "/static/media/undraw_sharing_knowledge_03vp.df600fa29eb73eea1bb4e7b4dcd7fad5.svg",
     "static/media/undraw_gifts_gioo.svg": "/static/media/undraw_gifts_gioo.1f8a1148c5ca96e6d6910ee34a97d9a3.svg",
     "static/media/undraw_financial_data_re_p0fl.svg": "/static/media/undraw_financial_data_re_p0fl.bd47a263fce065c154b8ed7393badf4a.svg",
@@ -14,10 +18,10 @@
     "static/media/undraw_certificate_re_yadi.svg": "/static/media/undraw_certificate_re_yadi.b09b0539e06a8c67b66dd687afd50264.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.0640aa80.js.map": "/static/js/main.0640aa80.js.map"
+    "main.cb82123d.js.map": "/static/js/main.cb82123d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0640aa80.js"
+    "static/js/main.cb82123d.js"
   ]
 }
