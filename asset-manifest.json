@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.925205b2.js",
+    "main.js": "/static/js/main.4b84976c.js",
     "static/media/heleno-kaizer-hXHTSfhxovo-unsplash.jpg": "/static/media/heleno-kaizer-hXHTSfhxovo-unsplash.4ca0d9604af99ef62279.jpg",
     "static/media/new1.jpg": "/static/media/new1.3768108ef394cfec48e5.jpg",
+    "static/media/maofinish.png": "/static/media/maofinish.2c2eeee34eee7daa4f78.png",
     "static/media/photo_2022-07-20_19-25-12.jpg": "/static/media/photo_2022-07-20_19-25-12.bcfa78a11911190da440.jpg",
     "static/media/photo_2022-07-19_20-20-32.jpg": "/static/media/photo_2022-07-19_20-20-32.189030fc8fe4554991cf.jpg",
     "static/media/photo_2022-07-20_19-58-03.jpg": "/static/media/photo_2022-07-20_19-58-03.0d837a4e6e85711eab1f.jpg",
@@ -25,10 +26,10 @@
     "static/media/undraw_certificate_re_yadi.svg": "/static/media/undraw_certificate_re_yadi.b09b0539e06a8c67b66dd687afd50264.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.925205b2.js.map": "/static/js/main.925205b2.js.map"
+    "main.4b84976c.js.map": "/static/js/main.4b84976c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.925205b2.js"
+    "static/js/main.4b84976c.js"
   ]
 }
