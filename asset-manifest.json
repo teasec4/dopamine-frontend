@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8a685450.css",
-    "main.js": "/static/js/main.f9404018.js",
+    "main.js": "/static/js/main.d1344834.js",
     "static/media/heleno-kaizer-hXHTSfhxovo-unsplash.jpg": "/static/media/heleno-kaizer-hXHTSfhxovo-unsplash.4ca0d9604af99ef62279.jpg",
     "static/media/new1.jpg": "/static/media/new1.3768108ef394cfec48e5.jpg",
     "static/media/maofinish.png": "/static/media/maofinish.2c2eeee34eee7daa4f78.png",
@@ -10,26 +10,32 @@
     "static/media/photo_2022-07-20_19-58-03.jpg": "/static/media/photo_2022-07-20_19-58-03.0d837a4e6e85711eab1f.jpg",
     "static/media/photo_2022-07-19_19-38-57.jpg": "/static/media/photo_2022-07-19_19-38-57.d6f4abc4550f07484ee4.jpg",
     "static/media/photo_2022-07-19_19-38-56.jpg": "/static/media/photo_2022-07-19_19-38-56.7f3b640de3cf8fe8f9d7.jpg",
+    "static/media/2t.jpg": "/static/media/2t.428064e16e97ee0135a7.jpg",
     "static/media/photo_2022-07-20_19-25-13.jpg": "/static/media/photo_2022-07-20_19-25-13.fe9cd07f9a73aafdef23.jpg",
     "static/media/photo_2022-07-19_19-38-59.jpg": "/static/media/photo_2022-07-19_19-38-59.c301b9e58b0b8c38d1a9.jpg",
+    "static/media/photo_2022-07-24_17-45-38.jpg": "/static/media/photo_2022-07-24_17-45-38.af0e052cd68179b699b4.jpg",
     "static/media/photo_2022-07-20_19-25-33.jpg": "/static/media/photo_2022-07-20_19-25-33.959a98b1d8b97a724a03.jpg",
     "static/media/photo_2022-07-20_19-49-31.jpg": "/static/media/photo_2022-07-20_19-49-31.7e0b8999b359529f4f53.jpg",
+    "static/media/3t.jpg": "/static/media/3t.11cc7d493f9ddb73a3d7.jpg",
     "static/media/team.jpg": "/static/media/team.42ca9c48774956087cd0.jpg",
     "static/media/foto1.png": "/static/media/foto1.ae98e24dd7f8d92077bd.png",
     "static/media/pasha.png": "/static/media/pasha.54103bbb9018590bca1a.png",
+    "static/media/undraw_a_day_off_re_hedl.svg": "/static/media/undraw_a_day_off_re_hedl.5ce7110c40cdd04ba397833563723fa6.svg",
     "static/media/undraw_sharing_knowledge_03vp.svg": "/static/media/undraw_sharing_knowledge_03vp.df600fa29eb73eea1bb4e7b4dcd7fad5.svg",
     "static/media/undraw_gifts_gioo.svg": "/static/media/undraw_gifts_gioo.1f8a1148c5ca96e6d6910ee34a97d9a3.svg",
     "static/media/undraw_financial_data_re_p0fl.svg": "/static/media/undraw_financial_data_re_p0fl.bd47a263fce065c154b8ed7393badf4a.svg",
     "static/media/undraw_delivery_truck_vt6p.svg": "/static/media/undraw_delivery_truck_vt6p.3a8d4966dd3ffb616800e0ca33e14af2.svg",
+    "static/media/undraw_game_world_re_e44j.svg": "/static/media/undraw_game_world_re_e44j.407a1c834067801d1383c48db305e39b.svg",
+    "static/media/undraw_showing_support_re_5f2v.svg": "/static/media/undraw_showing_support_re_5f2v.d65e1b0c8893f7624f88eec53edce589.svg",
     "static/media/undraw_agree_re_hor9.svg": "/static/media/undraw_agree_re_hor9.b09da146d9f6a51abe1227e974728a47.svg",
     "static/media/undraw_certification_re_ifll.svg": "/static/media/undraw_certification_re_ifll.e1cef8e2f0e41aea6c49c3c4751ceaf4.svg",
     "static/media/undraw_certificate_re_yadi.svg": "/static/media/undraw_certificate_re_yadi.b09b0539e06a8c67b66dd687afd50264.svg",
     "index.html": "/index.html",
     "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
-    "main.f9404018.js.map": "/static/js/main.f9404018.js.map"
+    "main.d1344834.js.map": "/static/js/main.d1344834.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.f9404018.js"
+    "static/js/main.d1344834.js"
   ]
 }
